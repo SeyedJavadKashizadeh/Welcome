@@ -6,7 +6,7 @@ Welcome to Javad's github page! I'm currently a Finance PhD student at EPFL and 
 
 📫 Contact: javad.kashizadeh@epfl.ch
 
-📖 Google Scholar: [test](https://scholar.google.com/citations?user=ZxQgd6EAAAAJ&hl=en&oi=ao)
+📖  [Google Scholar](https://scholar.google.com/citations?user=ZxQgd6EAAAAJ&hl=en&oi=ao)
 
 🌐 Personal Website: Your Personal Page
 
