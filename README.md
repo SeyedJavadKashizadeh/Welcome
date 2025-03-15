@@ -11,4 +11,4 @@ Welcome to Javad's github page! I'm currently a Finance PhD student at EPFL and 
 🌐 [Personal Website](https://people.epfl.ch/javad.kashizadeh/?lang=en)
 
 
-![Phpust's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyedjavadkashizadeh&show_icons=true&theme=transparent)
+![Phpust's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyedjavad&show_icons=true&theme=transparent)
