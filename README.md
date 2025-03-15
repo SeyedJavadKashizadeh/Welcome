@@ -2,7 +2,7 @@ Hi there 👋
 
 Welcome to Javad's github page! I'm currently a Finance PhD student at EPFL and Swiss Finance Institute.  
 
-🔭 Research Interests: Causale Inference, Quantitative Finance, Fixed Income, Asset Pricing, Real Estate Finance 
+🔭 Research Interests: Causal Inference, Quantitative Finance, Fixed Income, Asset Pricing, Real Estate Finance 
 
 📫 Contact: javad.kashizadeh@epfl.ch
 
