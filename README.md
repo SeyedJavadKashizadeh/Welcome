@@ -8,10 +8,9 @@ Welcome to Javad's github page! I'm currently a Finance PhD student at EPFL and 
 
 📖  [Google Scholar](https://scholar.google.com/citations?user=ZxQgd6EAAAAJ&hl=en&oi=ao)
 
-🌐 Personal Website: Your Personal Page
+🌐 [Personal Website](https://people.epfl.ch/javad.kashizadeh/?lang=en)
 
-⚡ Fun Fact: I thrive on solving challenging problems and exploring innovative solutions.
 
 Let's connect and explore opportunities to push the boundaries of finance and technology together! 🚀
 
-![Phpust's GitHub stats](https://github-readme-stats.vercel.app/api?username=phpust&show_icons=true&theme=transparent)
+![Phpust's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyedjavadkashizadeh&show_icons=true&theme=transparent)
